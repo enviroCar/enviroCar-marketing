@@ -1,0 +1,4 @@
+Car:		http://openclipart.org/detail/122965/car-pictogram-by-pawnk
+Smartphone:	http://openclipart.org/detail/177255/simple-cell-phone-by-andrew_r_thomas-177255
+Laptop:		http://openclipart.org/detail/32353/laptop-by-deusinvictus
+Cloud:		

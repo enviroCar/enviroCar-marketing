@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="back.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3797">
+      <stop
+         id="stop3799"
+         offset="0"
+         style="stop-color:#8cbf3f;stop-opacity:1" />
+      <stop
+         id="stop3801"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#048abf;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3761"
+       x1="70"
+       y1="956.29071"
+       x2="146.94719"
+       y2="756.29077"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-7"
+       id="linearGradient3761-1"
+       x1="1.4285715"
+       y1="1052.005"
+       x2="452.66147"
+       y2="782.00507"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3755-7">
+      <stop
+         style="stop-color:#048abf;stop-opacity:1;"
+         offset="0"
+         id="stop3757-4" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3759-0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1.8066406e-7,-2.0496544e-5)"
+       y2="710.57648"
+       x2="669.80432"
+       y1="1019.1479"
+       x1="719.99994"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3778"
+       xlink:href="#linearGradient3797"
+       inkscape:collect="always" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3995"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4003"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient4021">
+      <stop
+         style="stop-color:#8cbf3f;stop-opacity:1;"
+         offset="0"
+         id="stop4023" />
+      <stop
+         id="stop4043"
+         offset="0.02708333"
+         style="stop-color:#83b345;stop-opacity:0.98431373;" />
+      <stop
+         id="stop4039"
+         offset="0.07056584"
+         style="stop-color:#7aa84b;stop-opacity:0.96862745;" />
+      <stop
+         id="stop4037"
+         offset="0.10241991"
+         style="stop-color:#699157;stop-opacity:0.93725491;" />
+      <stop
+         id="stop4035"
+         offset="0.125"
+         style="stop-color:#46646f;stop-opacity:0.8745098;" />
+      <stop
+         id="stop4031"
+         offset="0.27715164"
+         style="stop-color:#000aa0;stop-opacity:0.74901962;" />
+      <stop
+         style="stop-color:#0037a0;stop-opacity:0.62352941;"
+         offset="0.83329219"
+         id="stop4045" />
+      <stop
+         id="stop4029"
+         offset="0.85000002"
+         style="stop-color:#0065a0;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#0065a0;stop-opacity:0;"
+         offset="1"
+         id="stop4025" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4019"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3999"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient4115">
+      <stop
+         style="stop-color:#0065a0;stop-opacity:1;"
+         offset="0"
+         id="stop4117" />
+      <stop
+         id="stop4123"
+         offset="1"
+         style="stop-color:#8cbf3f;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4091"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3995-1-77"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4003-7-42"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient4021-0-5">
+      <stop
+         style="stop-color:#8cbf3f;stop-opacity:1;"
+         offset="0"
+         id="stop4023-9-43" />
+      <stop
+         id="stop4043-4-1"
+         offset="0.02708333"
+         style="stop-color:#83b345;stop-opacity:0.98431373;" />
+      <stop
+         id="stop4039-8-2"
+         offset="0.07056584"
+         style="stop-color:#7aa84b;stop-opacity:0.96862745;" />
+      <stop
+         id="stop4037-8-3"
+         offset="0.10241991"
+         style="stop-color:#699157;stop-opacity:0.93725491;" />
+      <stop
+         id="stop4035-2-3"
+         offset="0.125"
+         style="stop-color:#46646f;stop-opacity:0.8745098;" />
+      <stop
+         id="stop4031-4-4"
+         offset="0.27715164"
+         style="stop-color:#000aa0;stop-opacity:0.74901962;" />
+      <stop
+         style="stop-color:#0037a0;stop-opacity:0.62352941;"
+         offset="0.83329219"
+         id="stop4045-5-1" />
+      <stop
+         id="stop4029-5-13"
+         offset="0.85000002"
+         style="stop-color:#0065a0;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#0065a0;stop-opacity:0;"
+         offset="1"
+         id="stop4025-1-8" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4019-7-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3999-5-9"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient4115-7-8">
+      <stop
+         style="stop-color:#0065a0;stop-opacity:1;"
+         offset="0"
+         id="stop4117-6-9" />
+      <stop
+         id="stop4123-1-2"
+         offset="1"
+         style="stop-color:#8cbf3f;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4091-4-7"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4115-7-8-7"
+       id="linearGradient3689-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7043765,0,0,1.7043765,-533.39258,-461.79392)"
+       x1="524.25061"
+       y1="359.82504"
+       x2="545.26361"
+       y2="359.82504" />
+    <linearGradient
+       id="linearGradient4115-7-8-7">
+      <stop
+         style="stop-color:#0065a0;stop-opacity:1;"
+         offset="0"
+         id="stop4117-6-9-4" />
+      <stop
+         id="stop4123-1-2-0"
+         offset="1"
+         style="stop-color:#8cbf3f;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4091-4-7-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3999-5-9-4"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4021-0-5-8"
+       id="linearGradient3687-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-184.49421,1.0207112)"
+       spreadMethod="pad"
+       x1="370.16666"
+       y1="345.75015"
+       x2="531.16669"
+       y2="345.75015" />
+    <linearGradient
+       id="linearGradient4021-0-5-8">
+      <stop
+         style="stop-color:#8cbf3f;stop-opacity:1;"
+         offset="0"
+         id="stop4023-9-43-2" />
+      <stop
+         id="stop4043-4-1-4"
+         offset="0.02708333"
+         style="stop-color:#83b345;stop-opacity:0.98431373;" />
+      <stop
+         id="stop4039-8-2-5"
+         offset="0.07056584"
+         style="stop-color:#7aa84b;stop-opacity:0.96862745;" />
+      <stop
+         id="stop4037-8-3-5"
+         offset="0.10241991"
+         style="stop-color:#699157;stop-opacity:0.93725491;" />
+      <stop
+         id="stop4035-2-3-1"
+         offset="0.125"
+         style="stop-color:#46646f;stop-opacity:0.8745098;" />
+      <stop
+         id="stop4031-4-4-7"
+         offset="0.27715164"
+         style="stop-color:#000aa0;stop-opacity:0.74901962;" />
+      <stop
+         style="stop-color:#0037a0;stop-opacity:0.62352941;"
+         offset="0.83329219"
+         id="stop4045-5-1-1" />
+      <stop
+         id="stop4029-5-13-1"
+         offset="0.85000002"
+         style="stop-color:#0065a0;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#0065a0;stop-opacity:0;"
+         offset="1"
+         id="stop4025-1-8-5" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4019-7-7-2"
+       is_visible="true" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4069-1-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27520871"
+         id="feGaussianBlur4071-1-7" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4003-7-42-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3995-1-77-6"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99"
+     inkscape:cx="234.83223"
+     inkscape:cy="334.87762"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3906"
+     showgrid="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="745"
+     inkscape:window-x="86"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.64983166999999997;fill:url(#linearGradient3761);fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="744.08997"
+       height="427.85706"
+       x="0"
+       y="624.505" />
+    <rect
+       style="opacity:0.64983166999999997;fill:url(#linearGradient3778);fill-opacity:1;stroke:none"
+       id="rect2985-9"
+       width="744.09003"
+       height="320.71426"
+       x="0"
+       y="731.64789" />
+    <g
+       id="g3906">
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+         x="71.528572"
+         y="231.50504"
+         id="text3958"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3960"
+           x="71.528572"
+           y="231.50504"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway Bold;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">Allgemeine Informationen</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="266.50504"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway Bold;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3099" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="290.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+           id="tspan3114">Wofür brauche ich enviroCar?</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="310.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3573">Die enviroCar App hilft Ihnen bei der Reduzierung Ihres Kraftstoffverbrauchs</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="330.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3575">und generiert dabei wissenschaftliches Datenmaterial, das einer ganzen</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="350.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3577">Community zur Analyse bereitsteht. So können z.B. Stadtplaner Verkehrseng-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="370.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3579">pässe aufspüren oder Klimatologen eine CO<tspan
+   style="font-size:16px;baseline-shift:sub;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan3128">2</tspan>-Belastungskarte erstellen.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="390.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3581" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="410.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+           id="tspan3583">Wie funktioniert enviroCar?</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="430.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3585">Mit einem OBD-II Adapter und einem Smartphone werden die Motordaten des</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="450.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3587">Fahrzeugs auf den enviroCar Server übertragen und stehen dort in anonymi-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="470.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3589">sierter Form allen Nutzern der Community zu Verfügung. </tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="490.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3637">Auf Wunsch werden die ermittelten Daten live auf Ihrem Smartphone ange-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="510.25504"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3179">zeigt.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="530.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3591" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="550.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke:#000000;stroke-opacity:1;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3593">Was muss ich dafür tun?</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="570.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3595">Stecken Sie den OBD-II Adapter in den OBD-II Steckplatz Ihres Autos. Er be-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="590.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3597">findet sich meistens im Fußraum auf der Fahrerseite; ansonsten lässt sich die</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="610.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3599">Position in der Bedienungsanleitung Ihres Fahrzeugs in Erfahrung bringen. La-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="630.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3601">den Sie die App herunter, installieren Sie sie und melden Sie sich mit Ihren Zu-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="650.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3603">gangsdaten an. Ihr Smartphone verbindet sich automatisch mit dem Adapter.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="670.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3609" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="690.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+           id="tspan4520">Wie sieht es mit Sicherheit und Privatsphäre aus?</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="710.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3613">Die Daten sind zunächst nur für Sie sichtbar. Nur die von Ihnen explizit freige-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="730.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3142">gebenen Daten werden unter einer offenen Lizenz publiziert. Sie wissen stets,</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="750.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3146">welche Daten gespeichert werden. Der Quellcode und die Schnittstellen lie-</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="770.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3148">gen offen, so dass dies auch überprüfbar ist.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="790.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3140">Der OBD-II Adapter liest die Fahrzeugdaten nur aus und verändert nichts an</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="810.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3166">den Einstellungen Ihres Fahrzeugs.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="830.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3615" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="850.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+           id="tspan3617">Wann werden die enviroCar Produkte verfügbar sein?</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="870.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3653">Die Beta-Testphase wird im Juli starten. Das erste Release wird voraussichtlich</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="890.255"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan3173">im September veröffentlicht werden.</tspan><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="910.255"
+           id="tspan3057" /><tspan
+           sodipodi:role="line"
+           x="71.528572"
+           y="930.255"
+           id="tspan3059" /></text>
+      <g
+         id="g3212"
+         transform="translate(32.324881,-178.79701)">
+        <rect
+           y="1144.6648"
+           x="39.633129"
+           height="5.177032"
+           width="56.063465"
+           id="rect3124"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1144.6648"
+           x="123.56966"
+           height="5.177032"
+           width="56.063465"
+           id="rect3124-1"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1135.7628"
+           x="101.61504"
+           height="5.177032"
+           width="16.036171"
+           id="rect3124-1-7"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1157.1655"
+           x="39.633129"
+           height="2.4622471"
+           width="140"
+           id="rect3124-1-4"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1175.8533"
+           x="39.633129"
+           height="5.177032"
+           width="140"
+           id="rect3124-1-0"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1127.095"
+           x="105.14182"
+           height="2.5877464"
+           width="8.9825993"
+           id="rect3124-1-7-9"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="1120.9897"
+           x="108.53531"
+           height="4.9552913"
+           width="2.1956367"
+           id="rect3124-1-7-9-4"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#004288;fill-opacity:1;stroke:none;font-family:Sans"
+         x="513.47729"
+         y="972.08679"
+         id="text3221"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3223"
+           x="513.47729"
+           y="972.08679"
+           style="font-size:12px;fill:#004288;fill-opacity:1">IfGI</tspan><tspan
+           sodipodi:role="line"
+           x="513.47729"
+           y="987.08679"
+           id="tspan3225"
+           style="font-size:12px;fill:#004288;fill-opacity:1">Institut für Geoinformatik</tspan><tspan
+           sodipodi:role="line"
+           x="513.47729"
+           y="1002.0868"
+           id="tspan3227"
+           style="font-size:12px;fill:#004288;fill-opacity:1">Universität Münster</tspan></text>
+      <g
+         id="g4042"
+         transform="matrix(1.0845065,0,0,0.98687182,29.17273,18.389798)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4006-8"
+           d="m 428.43473,981.30425 -20.93865,20.99245 0.27018,-18.81145 20.66847,-20.85628 z"
+           style="opacity:0.7;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:1.07469094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+           y="945.74884"
+           x="-400.33072"
+           height="30.523626"
+           width="30.6297"
+           id="rect3999"
+           style="opacity:0.7;fill:#cccccc;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4006"
+           d="m 390.99555,963.05948 23.22404,23.07417 -0.29967,-20.67686 -22.92437,-22.92442 z"
+           style="opacity:0.7;fill:#285d97;fill-opacity:1;stroke:#285d97;stroke-width:1.18661332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="238.57143"
+         y="972.09265"
+         id="text4047"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4049"
+           x="238.57143"
+           y="972.09265"
+           style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold">Westfälische</tspan><tspan
+           sodipodi:role="line"
+           x="238.57143"
+           y="987.09265"
+           id="tspan4051"
+           style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold">Wilhelms-Universität</tspan><tspan
+           sodipodi:role="line"
+           x="238.57143"
+           y="1002.0927"
+           id="tspan4053"
+           style="font-size:12px;font-weight:bold;-inkscape-font-specification:Sans Bold">Münster</tspan></text>
+      <g
+         id="g3666"
+         transform="translate(249.19009,1.4285714)">
+        <flowRoot
+           transform="matrix(1.781096,0,0,1.1425214,-305.50059,-304.72264)"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Ultra-Light"
+           id="flowRoot3159"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3161"><rect
+               style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway Ultra-Light"
+               y="316.26373"
+               x="104.39561"
+               height="117.58241"
+               width="504.3956"
+               id="rect3163" /></flowRegion><flowPara
+             style="font-size:64px;fill:#8cbf3f;fill-opacity:1;stroke:#8cbf3f;stroke-width:1.19478488;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="flowPara3165">  nviro</flowPara></flowRoot>        <path
+           sodipodi:nodetypes="csc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 68.834008,65.202227 c 0,0 7.42007,-10.14914 13.6899,-9.13168 3.96538,0.64349 11.87575,9.13168 11.87575,9.13168"
+           inkscape:path-effect="#path-effect3995-1-77-6"
+           id="path3993"
+           d="m 68.834008,65.202227 c 0.947434,-2.793089 2.83885,-5.256584 5.292481,-6.893248 2.453631,-1.636665 5.454683,-2.436631 8.397419,-2.238432 2.640833,0.177865 5.22271,1.153761 7.32094,2.767164 2.09823,1.613402 3.704576,3.857977 4.55481,6.364516"
+           style="fill:none;stroke:#0065a0;stroke-width:3.40875316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="csc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 51.790268,65.202227 c 0,0 15.95644,-26.2676 30.12384,-25.26075 12.02145,0.85433 29.529322,25.26075 29.529322,25.26075"
+           inkscape:path-effect="#path-effect4003-7-42-7"
+           id="path4001"
+           d="m 51.790268,65.202227 c 1.17392,-7.035568 4.931156,-13.610587 10.396666,-18.193763 5.46551,-4.583177 12.594686,-7.137105 19.727174,-7.066987 7.033405,0.06914 14.014595,2.686838 19.359492,7.259109 5.34489,4.572271 9.01222,11.06381 10.16983,18.001641"
+           style="fill:none;stroke:#0065a0;stroke-width:3.40875316;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           transform="scale(1.1848473,0.84399061)"
+           sodipodi:linespacing="125%"
+           id="text4013"
+           y="146.61375"
+           x="170.53654"
+           style="font-size:86.12547302px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#0065a0;stroke-width:4.03046513;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:raleway;-inkscape-font-specification:raleway"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0065a0;fill-opacity:1;stroke:#0065a0;stroke-width:4.03046513;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:raleway;-inkscape-font-specification:raleway"
+             y="146.61375"
+             x="170.53654"
+             id="tspan4015"
+             sodipodi:role="line">Car</tspan></text>
+        <path
+           transform="matrix(1.808007,0,0,1.6895409,-252.90587,-462.51606)"
+           sodipodi:nodetypes="cccscccssccc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 186.17246,316.68738 20,0 30,0 c 0,0 10.06593,0.32592 10.33333,3 0.33333,3.33333 4.00006,6.33333 4.00006,6.33333 l 0.33333,13.16666 -0.33333,6.83334 c 0,0 -0.38496,6.95055 0.49869,9.98753 0.60818,2.09021 9.55152,5.01072 11.48379,4.76309 10.43448,-1.33718 13.74065,0.24938 13.74065,0.24938 l 24.27681,0 40,0"
+           inkscape:path-effect="#path-effect4019-7-7-2"
+           id="path4017"
+           d="m 186.17246,316.68738 c 6.66667,0 13.33333,0 20,0 10,0 20,0 30,0 1.83674,0 3.69198,0.0486 5.47019,0.50866 1.7782,0.46003 3.4566,1.31012 4.86314,2.49134 1.94284,1.63161 3.36157,3.8779 4.00006,6.33333 l 0.33333,13.16666 -0.33333,6.83334 c -0.082,1.6818 -0.22033,3.361 -0.26859,5.04411 -0.0482,1.68311 0.0354,3.42701 0.76728,4.94342 0.47496,0.98407 1.21478,1.82957 2.0863,2.48869 0.87152,0.65912 1.87244,1.13612 2.91382,1.46705 2.08276,0.66185 4.29922,0.74313 6.48367,0.80735 4.57909,0.13461 9.15969,0.21775 13.74065,0.24938 l 24.27681,0 40,0"
+           style="fill:none;stroke:url(#linearGradient3687-8);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4069-1-1)" />
+        <path
+           sodipodi:nodetypes="csc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 60.312148,65.202227 c 0,0 11.71467,-18.96769 21.90686,-17.95846 7.9954,0.7917 20.702532,17.95846 20.702532,17.95846"
+           inkscape:path-effect="#path-effect3999-5-9-4"
+           id="path3997"
+           d="m 60.312148,65.202227 c 0.868855,-5.074347 3.620191,-9.804219 7.601584,-13.068023 3.981393,-3.263803 9.15908,-5.03386 14.305276,-4.890437 4.945527,0.137831 9.824039,2.036769 13.561317,5.27868 3.737278,3.24191 6.306245,7.803301 7.141215,12.67978"
+           style="fill:#000000;fill-opacity:0;stroke:#0065a0;stroke-width:3.40875316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 360.98006,134.37658 c 37.72288,-22.85127 6.44231,16.88199 0,34.08753 l 15.53076,0.0575 18.57887,0.0687 -0.0221,-8.64801 -8.52188,0 0,-17.04375 8.52188,0 0,-8.52189 c -5.06041,-33.87373 -20.35552,-12.73606 -34.08752,0 z"
+           inkscape:path-effect="#path-effect4091-4-7-9"
+           id="path4089"
+           d="m 360.98006,134.37658 0,34.08753 c 5.17692,0.0192 10.35384,0.0383 15.53076,0.0575 6.19296,0.0229 12.38591,0.0458 18.57887,0.0687 l -0.0221,-8.64801 -8.52188,0 0,-17.04375 8.52188,0 0,-8.52189 -34.08752,0 -1e-5,-8e-5"
+           style="fill:none;stroke:url(#linearGradient3689-1);stroke-width:1.70437658px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           transform="matrix(1.0542456,0,0,1.0542456,-245.84745,-3.4327772)"
+           id="g3521">
+          <path
+             sodipodi:type="arc"
+             style="fill:#8cbf3f;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+             id="path17126-1-6"
+             sodipodi:cx="133.92857"
+             sodipodi:cy="162.71933"
+             sodipodi:rx="58.214287"
+             sodipodi:ry="72.5"
+             d="m 192.14286,162.71933 c 0,40.04064 -26.06342,72.5 -58.21429,72.5 -29.66368,0 -54.583453,-27.7785 -57.858413,-64.49578"
+             sodipodi:start="0"
+             sodipodi:end="3.0309641"
+             sodipodi:open="true"
+             transform="matrix(-0.03832071,0.50810581,-0.65674626,-0.03187796,294.47328,30.349499)" />
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.65556395;stroke-opacity:1"
+             id="rect17150-5-4"
+             width="18.08329"
+             height="44.378998"
+             x="162.28256"
+             y="70.142227" />
+          <rect
+             style="fill:#8cbf3f;fill-opacity:1;stroke:#ffffff;stroke-width:0.78853071;stroke-opacity:1"
+             id="rect17152-5-7"
+             width="28.738779"
+             height="7.7711535"
+             x="151.40335"
+             y="78.370392" />
+          <rect
+             style="fill:#8cbf3f;fill-opacity:1;stroke:#ffffff;stroke-width:0.72925627;stroke-opacity:1"
+             id="rect17152-0-9-5"
+             width="24.411352"
+             height="7.8250141"
+             x="155.75981"
+             y="96.917824" />
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path17257-6-7"
+             sodipodi:cx="315.71429"
+             sodipodi:cy="145.21933"
+             sodipodi:rx="35.714287"
+             sodipodi:ry="41.42857"
+             d="m 351.42858,145.21933 c 0,22.88037 -15.98983,41.42857 -35.71429,41.42857 -18.19857,0 -33.48678,-15.87343 -35.49596,-36.85473"
+             sodipodi:start="0"
+             sodipodi:end="3.0309641"
+             sodipodi:open="true"
+             transform="matrix(-0.02671848,0.62974422,-0.48218713,-0.04456936,242.06385,-99.982021)"
+             inkscape:transform-center-x="-27.45802"
+             inkscape:transform-center-y="-7.7219665" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3936"
+           y="154.01341"
+           x="-105.31544"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+           xml:space="preserve"><tspan
+             y="154.01341"
+             x="-105.31544"
+             id="tspan3938"
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none">Machen Sie mit uns die Welt etwas smarter.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

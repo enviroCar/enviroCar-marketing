@@ -9,3 +9,4 @@ These are the marketing related files:
 * Material for logo and icon (svg included)  
 * Pictures (architecture of the enviroCar system)  
 * Screenshots (of App and Website (German&English)  
+* Texts
